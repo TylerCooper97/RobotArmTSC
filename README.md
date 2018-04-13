@@ -1,4 +1,5 @@
-#RobotArmTSC.py
+#RobotArmTSC
+
 To run this program from the command line, the following example can be followed:
 python RobotArmTSC.py <--joints> <--alg> <arm file> <goal> <obstacle file>...
 where --joints is an optional command that allows you to specify the angles of the joints
